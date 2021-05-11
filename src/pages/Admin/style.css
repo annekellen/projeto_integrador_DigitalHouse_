@@ -1,0 +1,34 @@
+.tabela{
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.btn-container{
+  width: 90%;
+  margin: 0 auto; 
+  margin-bottom: 20px;
+}
+
+.tamanho-tabela{
+  width:25%
+}
+
+.tamanho-tabela1{
+  width: 5%;
+}
+.titulo-admin{
+  margin-left: 45px;
+}
+
+.estilo-botao{
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+.estilo-botao button{
+  margin: 10px;
+}
+
+

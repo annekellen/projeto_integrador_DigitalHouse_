@@ -1,0 +1,12 @@
+.prateleirasMarcas {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    margin: 16px auto;
+    width: 82%;
+  }
+  .marcas-wrapper{
+      padding: 10vh 0;
+
+  }
+  
